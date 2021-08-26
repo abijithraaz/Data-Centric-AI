@@ -3,6 +3,8 @@ This is an attempt to get good accuracy in AI solution by modifying the existing
 
 This is a R&D as a part of Data-Centric-AI competition in deeplearning.ai.
 
+Pleas use this link if you want to know more "https://https-deeplearning-ai.github.io/data-centric-comp/".
+
 ## Steps-Taken-For-Data-Preprocess
 > Download the dataset from the competition website.
 
