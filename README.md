@@ -3,6 +3,8 @@ This is an attempt to get good accuracy in AI solution by modifying the existing
 This is a R&D as a part of Data-Centric-AI competition in deeplearning.ai
 
 ## Steps-Taken
-  > Download the dataset from the competition website.
-  > Removed the mislabelled datas.
-  > Rearranged the datas.
+> Download the dataset from the competition website.
+
+> Removed the mislabelled datas.
+
+> Rearranged the datas.
