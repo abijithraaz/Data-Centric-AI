@@ -3,7 +3,7 @@ This is an attempt to get good accuracy in AI solution by modifying the existing
 
 This is a R&D as a part of Data-Centric-AI competition in deeplearning.ai.
 
-## Steps-Taken
+## Steps-Taken-For-Data-Preprocess
 > Download the dataset from the competition website.
 
 > Removed the mislabelled datas.
@@ -17,5 +17,18 @@ This is a R&D as a part of Data-Centric-AI competition in deeplearning.ai.
 ## Augmentations
 Here we tried augmentation techniques are given below.
 > CutOut Augmentation.
+
 > Augmix Augmentation.
+
 > Custom Crop Augmentation.
+
+## Process-Steps
+ >  Started the training with raw data from the website and analysed the accuracy. It will be more less than the baseline accuracy.
+ 
+ >  Then we used the mentioned preprocess and cleaned the data. It gives the promising accuracy as compared to baseline accuracy in the website.
+ 
+ >  Applied the CutOut Augmentation on cleaned data and checked the results and it was not good compared when to baseline accuracy.
+ 
+ >  Applied the Augmix Augmentation on cleaned data and checked the results and it was not good when compared to baseline accuracy.
+ 
+ >  After these expirements we adopt a custom crop augmentation and it gives the good results only when the test set is also used the mechanism before the testing.
