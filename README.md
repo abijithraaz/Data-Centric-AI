@@ -12,7 +12,7 @@ This is a R&D as a part of Data-Centric-AI competition in deeplearning.ai.
 ## Competition-Instructions
 > Submission data must have less than 10,000 images combined in training and validation.
 
-> Images will resize to **32*32*3** before training, validation and testing.
+> Images will resize to **32/32/3** before training, validation and testing.
 
 ## Augmentations
 Here we tried augmentation techniques are given below.
