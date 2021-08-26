@@ -1,2 +1,3 @@
-# Codes-For-Process
-This directory contains codes for the augmentation, training and testing.
+# Process-Codes
+This directory contains python scripts for the augmentation, training and testing.
+
