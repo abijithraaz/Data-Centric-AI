@@ -27,8 +27,10 @@ Here we tried augmentation techniques are given below.
  
  >  Then we used the mentioned preprocess and cleaned the data. It gives the promising accuracy as compared to baseline accuracy in the website.
  
- >  Applied the CutOut Augmentation on cleaned data and checked the results and it was not good compared when to baseline accuracy.
+ >  Applied the CutOut Augmentation on cleaned data and checked the results and it was not good when compared to baseline accuracy.
  
  >  Applied the Augmix Augmentation on cleaned data and checked the results and it was not good when compared to baseline accuracy.
  
- >  After these expirements we adopt a custom crop augmentation and it gives the good results only when the test set is also used the mechanism before the testing.
+ >  After these expirements we adopt a custom crop augmentation and it gives the good results only when apply this mechanism on test set before the testing.
+ 
+ >  Experiment results are given in the **Training_Stats** directory.
