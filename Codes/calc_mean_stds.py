@@ -19,7 +19,6 @@ def cal_mean_std(images_dir):
 
                 m_list.append(m.reshape((3,)))
                 s_list.append(s.reshape((3,)))
-                # print(m_list)
     m_array = np.array(m_list)
     s_array = np.array(s_list)
     m = m_array.mean(axis=0, keepdims=True)
