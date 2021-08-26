@@ -23,7 +23,7 @@ Here we tried augmentation techniques are given below.
 > Custom Crop Augmentation.
 
 ## Process-Steps
- >  Started the training with raw data from the website and analysed the accuracy. It will be more less than the baseline accuracy.
+ >  Started the training with raw data from the website and analysed the accuracy. Its more less than the baseline accuracy.
  
  >  Then we used the mentioned preprocess and cleaned the data. It gives the promising accuracy as compared to baseline accuracy in the website.
  
