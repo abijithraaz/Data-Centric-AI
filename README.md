@@ -24,6 +24,8 @@ Here we tried augmentation techniques are given below.
 
 > Custom Crop Augmentation.
 
+Please use this link to know more about the augmentations given above. "https://wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNzU3NTU"
+
 ## Process-Steps
  >  Started the training with raw data from the website and analysed the accuracy. Its more less than the baseline accuracy.
  
